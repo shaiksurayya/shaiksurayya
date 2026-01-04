@@ -36,4 +36,4 @@ small change
 
 ---
 
-⭐ *Focused on learning, building, and improving every day.*
+⭐ *Focused on learning, building
