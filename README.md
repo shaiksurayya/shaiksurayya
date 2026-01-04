@@ -8,8 +8,7 @@
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms (Java)
-- Python Programming
-- Web Development (HTML, CSS, React)
+- Web Development
 - Git & GitHub
 
 ---
