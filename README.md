@@ -27,10 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=shaiksurayya&show_icons=true&count_private=true&cache_seconds=86400" />
-
-
 
 ---
 
