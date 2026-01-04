@@ -28,7 +28,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Shaik Surayya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaiksurayya&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=shaiksurayya&show_icons=true&count_private=true&cache_seconds=86400" />
+
 
 
 ---
