@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shaik Surayya Tabassum
 
-🎓 Computer Science Student  
+🎓 Computer Science Student || Ex-Intern @ Infosys Springboard 
 💻 Aspiring Software Developer  
 🚀 Passionate about coding, problem-solving, and continuous learning  
 
