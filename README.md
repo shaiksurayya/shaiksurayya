@@ -1,36 +1,147 @@
-# 👋 Hi, I'm Shaik Surayya Tabassum  
+# Shaik Surayya
 
-🎓 Computer Science Student | 🏢 Ex-Intern @ Infosys Springboard  
-💻 Aspiring Software Developer  
-🚀 Passionate about coding, problem-solving, and continuous learning  
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Shaik%20Surayya&fontColor=ffffff&fontAlignY=35"/>
+</p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;AI+Enthusiast"/>
+</p>
 
-## 🌱 Currently Learning
-- 📘 Data Structures & Algorithms (Java)
-- 🌐 Web Development
-- 🔧 Git & GitHub
+<p align="center">
 
----
+![Location](https://img.shields.io/badge/Kurnool-Andhra%20Pradesh-6f42c1?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-shaiksurayya-181717?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=shaiksurayya&style=for-the-badge&color=6f42c1)
 
-## 🔧 Skills
-- **👩‍💻 Languages:** Java, C  
-- **🌐 Web:** HTML, CSS,Java Script, Basic React  
-- **🛠 Tools:** Git, GitHub, VS Code  
-- **🧠 Concepts:** Object-Oriented Programming (OOP)
+</p>
 
----
+## About
 
-## 📂 Projects
-- 🤖 **EventMate** – AI Scheduler & Planner  
-- 💰 **CryptoVerse** – *(In Progress)*  
+Software Engineer focused on Java, Full Stack Development and AI-enabled products. Passionate about building scalable applications with clean architecture, modern UI and secure backend services.
 
----
-
-## 📫 Connect With Me
-- 📧 **Email:** shaiksurayyatabassum@gmail.com  
-- 💼 **LinkedIn:** [Shaik Surayya Tabassum](https://www.linkedin.com/in/shaik-surayya-tabassum-43899b2ba)
+**Open To**
+- Software Engineering Roles
+- Java Backend Development
+- Full Stack Development
+- Open Source
 
 ---
 
-⭐ *Focused on learning, building, and improving every day.*
+# Tech Stack
+
+**Languages:** Java, C, JavaScript, HTML, CSS, SQL
+
+**Learning:** Spring Boot
+
+**Tools:** Git, GitHub, VS Code, MySQL
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| AI Integration | Intermediate | AI-powered web applications |
+| APIs | Intermediate | REST API integration |
+| Full Stack | Advanced | React + Java stack |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Crypto App</b></summary>
+
+Repository: https://github.com/shaiksurayya/cryptoapp
+
+| Item | Details |
+|---|---|
+| Stack | React, Redux Toolkit, Ant Design, Crypto APIs |
+| Performance | Optimized API calls |
+| Security | Secure API consumption |
+| Impact | Real-time crypto insights |
+
+</details>
+
+<details>
+<summary><b>EventMate AI</b></summary>
+
+Repository: https://github.com/shaiksurayya/Eventmate
+
+| Item | Details |
+|---|---|
+| Stack | Java Full Stack |
+| Features | Vendor & User login, booking system |
+| Security | JWT |
+| Impact | Conflict detection for bookings |
+
+</details>
+
+---
+
+# Experience
+
+## Infosys Springboard Virtual — Java Intern
+**Sep 2025 – Nov 2025**
+
+- Built EventMate AI event management platform.
+- Developed role-based authentication.
+- Reduced booking conflicts by 95%.
+- React + Spring Boot + JWT architecture.
+
+---
+
+# Coding Profiles
+
+- LeetCode: https://leetcode.com/u/Shaik_Surayya/
+- CodeChef: https://www.codechef.com/users/shaiksurayya13
+
+---
+
+# GitHub Analytics
+
+```md
+https://github-readme-stats.vercel.app/api?username=shaiksurayya&show_icons=true&theme=tokyonight
+
+https://github-readme-streak-stats.herokuapp.com/?user=shaiksurayya&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksurayya&layout=compact&theme=tokyonight
+```
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Spring Boot
+  - System Design
+
+Building:
+  - Full Stack Applications
+
+Exploring:
+  - AI Integration
+
+Open To:
+  - Software Engineer
+  - Java Developer
+```
+
+---
+
+# Connect
+
+- Email: shaiksurayyatabassum@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shaik-surayya-tabassum-43899b2ba/
+- GitHub: https://github.com/shaiksurayya
+- Resume: https://drive.google.com/file/d/1BJmPwIkHFFQtWkIMB5pn4ycyUQuW4JGD/view
+
+---
+
+> "Building scalable software through continuous learning and engineering excellence."
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6f42c1"/>
+</p>
