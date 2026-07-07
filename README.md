@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Shaik%20Surayya&fontColor=ffffff&fontAlignY=35"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;AI+Enthusiast"/>
-</p>
+</p> -->
 
 <p align="center">
 
@@ -18,7 +18,7 @@
 
 ## About
 
-Software Engineer focused on Java, Full Stack Development and AI-enabled products. Passionate about building scalable applications with clean architecture, modern UI and secure backend services.
+Focused on Java, Full Stack Development and AI-enabled products. Passionate about building scalable applications with clean architecture, modern UI and secure backend services.
 
 **Open To**
 - Software Engineering Roles
@@ -28,25 +28,16 @@ Software Engineer focused on Java, Full Stack Development and AI-enabled product
 
 ---
 
+
 # Tech Stack
 
-**Languages:** Java, C, JavaScript, HTML, CSS, SQL
-
-**Learning:** Spring Boot
-
-**Tools:** Git, GitHub, VS Code, MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql,git,github,vscode,postman&perline=7" />
+</p>
 
 ---
 
-# AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI Integration | Intermediate | AI-powered web applications |
-| APIs | Intermediate | REST API integration |
-| Full Stack | Advanced | React + Java stack |
-
----
 
 # Featured Projects
 
@@ -99,17 +90,6 @@ Repository: https://github.com/shaiksurayya/Eventmate
 
 ---
 
-# GitHub Analytics
-
-```md
-https://github-readme-stats.vercel.app/api?username=shaiksurayya&show_icons=true&theme=tokyonight
-
-https://github-readme-streak-stats.herokuapp.com/?user=shaiksurayya&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksurayya&layout=compact&theme=tokyonight
-```
-
----
 
 # Current Focus
 
@@ -129,13 +109,11 @@ Open To:
   - Java Developer
 ```
 
----
 
 # Connect
 
 - Email: shaiksurayyatabassum@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shaik-surayya-tabassum-43899b2ba/
-- GitHub: https://github.com/shaiksurayya
 - Resume: https://drive.google.com/file/d/1BJmPwIkHFFQtWkIMB5pn4ycyUQuW4JGD/view
 
 ---
