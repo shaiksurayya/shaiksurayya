@@ -12,7 +12,7 @@
 
 ![Location](https://img.shields.io/badge/Kurnool-Andhra%20Pradesh-6f42c1?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-shaiksurayya-181717?style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=shaiksurayya&style=for-the-badge&color=6f42c1)
+
 
 </p>
 
